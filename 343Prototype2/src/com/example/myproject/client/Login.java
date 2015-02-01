@@ -15,6 +15,7 @@ public VerticalPanel getPanel()
 	loginMain.add(username);
 	loginMain.add(password);
 	loginMain.add(loginMain);
+	loginMain.add(ok);
 	return loginMain;
 	
 }

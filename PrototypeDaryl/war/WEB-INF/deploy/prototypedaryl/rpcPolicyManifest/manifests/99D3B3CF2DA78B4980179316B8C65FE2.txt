@@ -1,0 +1,2 @@
+serviceClass: com.example.prototypedaryl.client.GreetingService
+path: CA49B5AE97DEE745BEDA8710A68BD44C.gwt.rpc
